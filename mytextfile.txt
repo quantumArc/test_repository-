@@ -2,3 +2,5 @@ Today the lectorial is starting at 4:30pm and finishing at 6:30pm
 
 
 This the week 6, and is a continuation on using the branching function in git.
+
+Changes main to file in the develop branch.

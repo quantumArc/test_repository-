@@ -1,6 +1,3 @@
-from hashlib import new
-from tkinter import N
-
 
 class Node:
     def __init__(self, initial_data):
